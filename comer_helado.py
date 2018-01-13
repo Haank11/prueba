@@ -13,3 +13,4 @@ if apetece_helado == "Si" and (tiene_dinero == "Si" or esta_tu_tia == "Si") and 
     print("Tomate un helado")
 else:
     print("No te lo tomes")
+
