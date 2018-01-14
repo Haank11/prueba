@@ -3,9 +3,9 @@ tiene_dinero = input("Tienes dinero (Si/No): ")
 esta_el_heladero = input("Esta el heladero? (Si/No): ")
 esta_tu_tia = input("Estas con tu tia? (Si/No) :")
 
-if apetece_helado == "Si"
+if apetece_helado == "Si" :
     apetece_helado == True
-elif apetece_helado == "No"
+elif apetece_helado == "No" :
     apetece_helado == False
 else:
     print("Te dije que me dijeras Si o No, no se que dijiste pero no te doy nada.")
